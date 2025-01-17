@@ -7,7 +7,7 @@ Clone the Repository and run
 
 ```
 git clone https://github.com/mukhbit0/Anime-Api.git
-cd anikatsu-api
+cd Anime-Api
 npm install 
 ```
 start the server with the following command:
